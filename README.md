@@ -1,4 +1,17 @@
-### Hi there 👋
+# Emma Bein
+
+## Major
+Visual Communication Design at EWU
+
+## Skills
+* Typography
+* Layout
+* Illustration
+* Motion Design
+* Product Design
+
+## Superpower
+Last minute wizard
 
 <!--
 **emmabein/emmabein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
